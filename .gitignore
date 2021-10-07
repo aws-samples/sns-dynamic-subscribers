@@ -1,0 +1,7 @@
+target/
+.aws-sam/
+venv/
+.settings/
+.DS_Store
+
+
